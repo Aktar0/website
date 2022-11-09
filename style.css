@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding:10px 20px 10px 50px;
+} 
+
+
+hi{
+    color:blue;
+    font-size: 100px
+}
+
+.title{
+    color:brown;
+}
+
+
+.welcome{
+    color:azure;
+}
+
+#navbar{
+    background-color:blueviolet;
+    text-align: center;
+    font-size:30px;
+    display: flex;
+    justify-content:space-evenlycen;
+    font-family: Arial, Helvetica, sans-serifsans-serif
+}
+
+#navbar a{
+    color:aliceblue;
+    text-decoration:none}
+
+#navbar a:hover{
+        color:display}
+    
+
+
+img{
+    width:15%
+}
+
+
+    
+
+.page1{
+    background-image: url(background.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
